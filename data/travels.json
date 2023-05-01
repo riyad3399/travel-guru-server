@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Cox's Bazar",
+    "id": 1,
+    "region": "Chittagong Division",
+    "description": "Cox's Bazar is a town on the southeast coast of Bangladesh. It's known for its long, sandy beach and is a popular destination for both domestic and international tourists.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/f8/43/longest-sea-beach-in.jpg?w=700&h=-1&s=1",
+    "highlights": [
+      "Visit the Cox's Bazar beach, the longest natural beach in the world",
+      "Explore the Himchori waterfall and its surrounding natural beauty",
+      "Take a boat ride on the Bay of Bengal to see St. Martin's Island",
+      "Visit the Buddhist temple of Ramu for a glimpse of local culture"
+    ],
+    "rating": 4.5,
+    "reviews": 984
+  },
+  {
+    "name": "Sundarbans",
+    "id": 2,
+    "region": "Khulna Division",
+    "description": "The Sundarbans is a mangrove forest in the coastal region of Bangladesh. It's known for its unique biodiversity, including the Bengal tiger, and is a UNESCO World Heritage Site.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Sundarban_Tiger.jpg",
+    "highlights": [
+      "Take a boat tour of the mangrove forest to see wildlife like the Bengal tiger and crocodiles",
+      "Visit the Katka and Kachikhali wildlife sanctuaries for birdwatching and more wildlife sightings",
+      "Explore the small villages and fishing communities within the Sundarbans",
+      "Learn about the local honey-collecting industry and try some honey"
+    ],
+    "rating": 4.8,
+    "reviews": 756
+  },
+  {
+    "name": "Rangamati",
+    "id": 3,
+    "region": "Chittagong Hill Tracts",
+    "description": "Rangamati is a town in the hilly region of southeastern Bangladesh. It's known for its natural beauty, including hills, lakes, and waterfalls, as well as its indigenous communities.",
+    "image": "https://media.istockphoto.com/id/1189180058/photo/the-shajek-vally.jpg?s=612x612&w=0&k=20&c=pSiecMqmjAh7TwAD2Eq1iif4BsygmRzkTUKEbq98egs=",
+    "highlights": [
+      "Visit the Kaptai Lake and take a boat ride to see the surrounding hills and forests",
+      "Explore the Rajbonbihar Buddhist temple and its peaceful surroundings",
+      "Visit the indigenous communities and learn about their unique culture and crafts",
+      "Hike to the Boga Lake for a stunning view of the surrounding hills"
+    ],
+    "rating": 4.6,
+    "reviews": 623
+  }
+]
